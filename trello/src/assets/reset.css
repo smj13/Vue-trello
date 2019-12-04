@@ -1,0 +1,12 @@
+body,h1,p,h6{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+ul,dl,dd{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
